@@ -2,6 +2,8 @@
 
 This Chrome/Brave extension will alert you when you visit a website eligible for satbacks via Stekking.com.
 
+https://chrome.google.com/webstore/detail/stekking-helper/adnhaaggbdojobinnapnialplhhpailm?hl=nl&authuser=0
+
 ## How it works
 
 The icon will light up green if site is eligible. Click on the icon for a short link to the Stekking page of this site.
