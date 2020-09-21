@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 
 	"name": "Stekking helper",
-	"description": "This extension will alert you when you can earn satoshis as cashback!",
-	"version": "1.1",
+	"description": "Earn Bitcoin. This extension will alert you when you can earn satoshis as cashback!",
+	"version": "1.2",
 
 	"icons": {
 		"16": "icon16.png",
